@@ -35,9 +35,8 @@ Boto3 will look in several locations when searching for credentials. The mechani
 
 7. Boto2 config file (/etc/boto.cfg and ~/.boto)
 
-8. nstance metadata service on an Amazon EC2 instance that has an IAM role configured.
+8. Instance metadata service on an Amazon EC2 instance that has an IAM role configured.
 
-Each of those locations is discussed in more detail below.
 
 
 
